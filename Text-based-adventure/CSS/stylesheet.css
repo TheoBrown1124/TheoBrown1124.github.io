@@ -1,0 +1,11 @@
+body{
+    background-color:dimgrey;
+    text-align:center;
+    font-family:monospace;
+    
+}
+ button{
+            text-align:center;
+            background-color: grey;
+            border: inset;
+}
